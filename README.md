@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello!
+I'm a student at GT interested in graphics programming, both the visual and performance aspects of it.
+Currently I am grinding LearnCPP and marveling at C#'s Linq.
 
 <!--
 **aelu419/aelu419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+And since it's all about numbers nowadays...
+![](https://github-readme-stats.vercel.app/api?username=aelu419)
