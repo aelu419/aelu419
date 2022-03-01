@@ -1,25 +1,11 @@
 # Hello!
 I'm a student at GT interested in graphics programming, both the visual and performance aspects of it.
-Currently I am grinding LearnCPP and marveling at C#'s Linq.
+Currently I am grinding LearnCPP, trying to optimize my use of C#'s Linq, and justifying putting my IDE on light mode.
 
-<!--
-**aelu419/aelu419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also made some games, mostly just as excuses for playing with graphics
+<a>https://alut.itch.io</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I make some games
-
-![](https://alut.itch.io)
 
 And since it's all about numbers nowadays...
 
-![](https://github-readme-stats.vercel.app/api?username=aelu419)
+![](https://github-readme-stats.vercel.app/api?username=aelu419&show_icons=true&theme=graywhite)
