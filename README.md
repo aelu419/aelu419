@@ -4,8 +4,3 @@ Currently I am grinding LearnCPP, trying to optimize my use of C#'s Linq, and ju
 
 I also made some games, mostly just as excuses for playing with graphics
 <a>https://alut.itch.io</a>
-
-
-And since it's all about numbers nowadays...
-
-![](https://github-readme-stats.vercel.app/api?username=aelu419&show_icons=true&theme=graywhite)
